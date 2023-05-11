@@ -329,6 +329,7 @@ header .container{
     }
     .rooms-content .rom {
         width: 100%;
+        margin-left:-4%;
     }
     .rom .room-prix a img {
         width: 100%;
